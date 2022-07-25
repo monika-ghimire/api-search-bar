@@ -1,0 +1,20 @@
+
+
+.listHolder 
+{
+ width:10%;
+
+ background-color: gainsboro;
+ text-align: center;
+}
+.listHolder ul
+{
+    list-style:none;
+ font-size:20px;
+
+
+}
+#showListSearch
+{
+    width:20%;
+}
